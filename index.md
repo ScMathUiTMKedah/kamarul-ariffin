@@ -133,3 +133,38 @@ Spreadsheet Modeling and Decision Making</p>
 </ul>
 </div>
 
+## Google Scholar  
+
+<h3 class="gsc_rsb_header">
+ <span class="gsc_rsb_title">Cited by</span>
+</h3>
+<table id="gsc_rsb_st">
+ <thead>
+  <tr>
+   <th class="gsc_rsb_sth"></th>
+   <th class="gsc_rsb_sth">All</th>
+   <th class="gsc_rsb_sth">Since 2016</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td class="gsc_rsb_sc1">
+    <a href="javascript:void(0)" class="gsc_rsb_f gs_ibl" title="This is the number of citations to all publications. The second column has the &quot;recent&quot; version of this metric which is the number of new citations in the last 5 years to all publications.">Citations</a>
+   </td>
+   <td class="gsc_rsb_std">46</td>
+   <td class="gsc_rsb_std">44</td>
+  </tr>
+  <tr>
+   <td class="gsc_rsb_sc1"><a href="javascript:void(0)" class="gsc_rsb_f gs_ibl" title="h-index is the largest number h such that h publications have at least h citations. The second column has the &quot;recent&quot; version of this metric which is the largest number h such that h publications have at least h new citations in the last 5 years.">h-index</a>
+   </td>
+   <td class="gsc_rsb_std">3</td>
+   <td class="gsc_rsb_std">3</td>
+  </tr>
+  <tr>
+   <td class="gsc_rsb_sc1"><a href="javascript:void(0)" class="gsc_rsb_f gs_ibl" title="i10-index is the number of publications with at least 10 citations. The second column has the &quot;recent&quot; version of this metric which is the number of publications that have received at least 10 new citations in the last 5 years.">i10-index</a>
+   </td>
+   <td class="gsc_rsb_std">2</td>
+   <td class="gsc_rsb_std">2</td>
+  </tr>
+ </tbody>
+</table>
