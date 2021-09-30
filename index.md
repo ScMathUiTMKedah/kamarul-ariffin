@@ -6,13 +6,12 @@
 <strong>Department of Mathematical Sciences</strong><br>
 <strong>Faculty of Computer and Mathematical Sciences</strong><br>
 <strong>UiTM Kedah Branch Campus</strong><br>
+</center>
 
+<center>
 <h2>
 About Me
 </h2>
-
-
- 
 <p>I graduated from the <a href="https://math.as.uky.edu/">University of Kentucky</a> with a BSc in Mathematics with Economics in 1992. In 2010 I started working toward my MSc in Decision Sciences as a part-time student at <a href="http://sqs.uum.edu.my/">Universiti Utara Malaysia</a>, under the School of Quantitative Sciences, College of Art and Sciences (CAS), where I did my partial thesis paper in Structural Equation Modeling (SEM) under the advisement of <a href="http://experts.uum.edu.my/Researcher_Info.aspx?nopkj=1869">Assoc. Prof.&nbsp;Dr.&nbsp;Zahayu Md Yusof</a> and <a href="http://experts.uum.edu.my/Researcher_Info.aspx?nopkj=2237">Assoc. Prof.&nbsp;Dr.&nbsp;Nazrina Aziz</a>. I graduated from UUM at the end of 2012.</p>
 <p>I have been serving Universiti Teknologi MARA Kedah Branch Campus since March 2002 and currently hold a position as a Senior Lecturer at the Department of Mathematical Sciences, Faculty of Computer and Mathematical Sciences.</p>
 <p>I am also an active training instructor especially in the area of Structural Equation Modeling using software such as SmartPLS and AMOS. Other than that, I am also able to delivers training workshops in data analysis using other statistical softwares, among them are IBM SPSS Statistics, R, JASP, jamovi, StatNotes, BlueStatistics, and also Excel.</p>
