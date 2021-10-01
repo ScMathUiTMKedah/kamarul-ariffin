@@ -1,6 +1,11 @@
 title: Kamarul Ariffin Mansor
-logo: <center>https://scmathuitmkedah.github.io/ScMathUiTMKedah/images/profile2.png</center>
-description: Minimal is a theme for GitHub Pages.
+logo: https://scmathuitmkedah.github.io/ScMathUiTMKedah/images/profile2.png
+description: |
+  Senior Lecturer
+  Department of Mathematical Sciences
+  UiTM Kedah Branch Campus
+  ariff118@uitm.edu.my
+  +60 12 433 6901
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
