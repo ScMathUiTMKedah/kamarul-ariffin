@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Biodata Pensyarah
+site.title: Biodata Pensyarah
 ---
 
 ![](https://ariff118.github.io/kamansor.github.io/assets/banner1_main.jpg)
