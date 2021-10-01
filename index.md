@@ -1,6 +1,7 @@
 ---
 layout: default
-site.title: Biodata Pensyarah
+title: Biodata Pensyarah
+logo: https://scmathuitmkedah.github.io/ScMathUiTMKedah/images/profile2.png
 ---
 
 ![](https://ariff118.github.io/kamansor.github.io/assets/banner1_main.jpg)
