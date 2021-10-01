@@ -1,14 +1,5 @@
 ![](https://ariff118.github.io/kamansor.github.io/assets/banner1_main.jpg)
 
-<center>
-<strong>Kamarul Ariffin Mansor</strong><br> 
-<strong>Senior Lecturer</strong><br>
-<strong>Department of Mathematical Sciences</strong><br>
-<strong>Faculty of Computer and Mathematical Sciences</strong><br>
-<strong>UiTM Kedah Branch Campus</strong><br>
-</center>
-
-<center>
 <h2>
 About Me
 </h2>
@@ -17,7 +8,8 @@ About Me
 <p>I am also an active training instructor especially in the area of Structural Equation Modeling using software such as SmartPLS and AMOS. Other than that, I am also able to delivers training workshops in data analysis using other statistical softwares, among them are IBM SPSS Statistics, R, JASP, jamovi, StatNotes, BlueStatistics, and also Excel.</p>
 <p>I am an intermediate user in R and being an active member of <a href="https://www.meetup.com/Malaysia-R-User-Group/">Malaysian R User Public Group</a>. Recently, I begin exploring Python programming language.</p>
 <p>My simplified CV is available <a href="files/cv-kamarul.pdf">here</a>.</p>
-</center>
+
+<br>
 
 <div id="academic-qualifications" class="section level3">
 <div name="Academic_Qualifications" data-unique="Academic_Qualifications"></div><h3>Academic Qualifications</h3>
