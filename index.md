@@ -3,6 +3,7 @@ layout: default
 title: Kamarul Ariffin Mansor
 logo: "https://scmathuitmkedah.github.io/ScMathUiTMKedah/images/profile2.png"
 description: Kamarul Ariffin
+
 ---
 
 ![](https://ariff118.github.io/kamansor.github.io/assets/banner1_main.jpg)
