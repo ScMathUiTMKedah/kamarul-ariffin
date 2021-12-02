@@ -142,8 +142,8 @@ Spreadsheet Modeling and Decision Making</p>
    <td class="gsc_rsb_sc1">
     <a href="javascript:void(0)" class="gsc_rsb_f gs_ibl" title="This is the number of citations to all publications. The second column has the &quot;recent&quot; version of this metric which is the number of new citations in the last 5 years to all publications.">Citations</a>
    </td>
-   <td class="gsc_rsb_std">46</td>
-   <td class="gsc_rsb_std">44</td>
+   <td class="gsc_rsb_std">48</td>
+   <td class="gsc_rsb_std">45</td>
   </tr>
   <tr>
    <td class="gsc_rsb_sc1"><a href="javascript:void(0)" class="gsc_rsb_f gs_ibl" title="h-index is the largest number h such that h publications have at least h citations. The second column has the &quot;recent&quot; version of this metric which is the largest number h such that h publications have at least h new citations in the last 5 years.">h-index</a>
